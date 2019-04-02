@@ -1,11 +1,12 @@
 ---
 title: "Street Photography Laws in Germany"
 date: "2018-12-24"
-lastmod: "2018-12-25"
+lastmod: "2019-04-02"
 description: "What's legal to shoot in Germany doing street photography and where?"
 featured_image: "cover-laws.jpg"
 layout: "country"
 country: "Germany"
+type: "law"
 category: "street"
 slug: "street-photography-laws-in-germany"
 ---
