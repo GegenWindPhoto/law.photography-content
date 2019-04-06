@@ -18,7 +18,7 @@ Hobbyist and professional drone operators are different in the eyes of the law i
 
 Yes, at least if your drone weighs more than 250g. If you have an adress and can authenticate yourself with NemID in Denmark you can take the amateur / noncommercial license here: [dronetegn.dk][]
 
-If you want to fly within densely populated areas or closer to airports, you'll need
+If you want to fly within densely populated areas or closer to airports, you'll need the next level of permit, which actually requires training and is more like a drivers license, a _dronebevis_.
 
 ## Where can I fly my Drone in Denmark?
 

@@ -12,35 +12,35 @@ langKey: "da"
 slug: "drone-fotografi-lovgivning-i-danmark"
 ---
 
-Hobbyist and professional drone operators are different in the eyes of the law in Denmark. Both need a permit, but the amateur drone permit is basically a self-service test you can take online.
+Hobby og komercielle drone piloter i Danmark skal forholde sig til forskellige regler i forhold til lovgivning og hvor der må flyves. Begge har brug for en tilladdelse, men den mindre af dem kan opnåes ved at tage en online test.
 
 ## Skal jeg have et dronebevis / dronetegn for at flyve en drone?
 
-Yes, at least if your drone weighs more than 250g. If you have an adress and can authenticate yourself with NemID in Denmark you can take the amateur / noncommercial license here: [dronetegn.dk][]
+Ja, hvis din drone vejer mere end 250 gram. Hvis du har en adresse i Danmark kan du logge på med NemId og tage _hobby_ dronetegnet her: [dronetegn.dk][].
 
-If you want to fly within densely populated areas or closer to airports, you'll need
+Hvis du vil flyve nær mennesker eller beboede områder skal du tage et dronebevis, som er mere som at tage et kørekort.
 
 ## Hvor kan jeg flyve min drone i Danmark?
 
-There is an interactive map available that shows you which areas are restricted for a number of reasons, for example close to an airport or near a high security building, [droneluftrum.dk][].
+Der er et interaktivt kort som viser områder hvor du må flyve, hvor man skal søge om tilladelse og hvor det er forbudt som ved lufthavne eller høj sikkerheds bygninger eller arealer. Se mere på [droneluftrum.dk][].
 
-Short legend for the map:
+Det her betyder farverne:
 
-- red: no fly zone
-- green: only required for official business concerning the nature reservation
-- yellow: currently active no fly zone (might vary)
-- blue: seek permission by the juristiction it's in
+- rød: no fly zone
+- grøn: kun hvis det er nødvendigt og med tilladelse, som regel fredet natur område
+- gul: midlertidig no fly zone
+- blå: søg tilladelse ved kommunen eller relevant institution
 
 ## Hvordan kan jeg tage et drone bevis?
 
-If you are not living in Denmark or if you want to fly inside a restricted zone for a commercial production, you can write [info@tbst.dk](mailto:info@tbst.dk) an email, remember to include the following:
+Hvis ikke du bor i Danmark, men vil flyve en drone i et område der kræver tilladelse, henvend dig til [info@tbst.dk](mailto:info@tbst.dk), husk at inkludere:
 
-- name and a drone license or certificate copy (If you have the danish dronebevis, the registration number will do)
-- map, address and coordinates of your planned flight
-- reason for your flight
-- which time frames you would like to be flying
+- navn og drone licens som scan/billede af beviset
+- kort, adresse og koordinater af den planlagte flyvning
+- begrundelse
+- tidspunkter / tidsrum af flyvning
 
-Answers can take several weeks, so make sure to contact them in due time.
+Husk at svar kan tage flere uger, henvend dig i god tid.
 
 [dronetegn.dk]: http://dronetegn.dk/
 [droneluftrum.dk]: https://www.droneluftrum.dk/
