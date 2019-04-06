@@ -9,6 +9,7 @@ country: "Spain"
 type: "law"
 category: "street"
 slug: "street-photography-laws-in-spain"
+langKey: "en"
 ---
 
 Spain has a culture of appreciation for privacy and even though in areas with a lot of tourism most locals are more used to cameras, rural area residents will likely react defensively.

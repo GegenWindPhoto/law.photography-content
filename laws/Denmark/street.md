@@ -9,6 +9,7 @@ country: "Denmark"
 category: "street"
 type: "law"
 slug: "street-photography-laws-in-denmark"
+langKey: "en"
 ---
 
 ## Can I Shoot Footage in Public without Consent?

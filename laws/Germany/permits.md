@@ -9,6 +9,7 @@ country: "Germany"
 category: "permits"
 type: "law"
 slug: "filming-permits-in-germany"
+langKey: "en"
 ---
 
 ## When do I need a Permit for Filming in Germany?
