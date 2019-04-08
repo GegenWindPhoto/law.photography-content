@@ -22,6 +22,8 @@ If you want to fly within densely populated areas or closer to airports, you'll 
 
 ## Where can I fly my Drone in Denmark?
 
+![](./images/drone-map-denmark.png)
+
 There is an interactive map available that shows you which areas are restricted for a number of reasons, for example close to an airport or near a high security building, [droneluftrum.dk][].
 
 Short legend for the map:

@@ -22,6 +22,8 @@ Hvis du vil flyve nær mennesker eller beboede områder skal du tage et dronebev
 
 ## Hvor kan jeg flyve min drone i Danmark?
 
+![](./images/drone-map-denmark.png)
+
 Der er et interaktivt kort som viser områder hvor du må flyve, hvor man skal søge om tilladelse og hvor det er forbudt som ved lufthavne eller høj sikkerheds bygninger eller arealer. Se mere på [droneluftrum.dk][].
 
 Det her betyder farverne:
