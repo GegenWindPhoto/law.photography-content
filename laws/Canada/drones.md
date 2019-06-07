@@ -30,7 +30,7 @@ If your intention or shots meet __any__ of the following conditions, you will ne
 
 The National Research Council has prepared [an interactive map](https://nrc.canada.ca/en/drone-tool/) where you can check controlled air spaces and zones where you need a permit.
 
-![canada drone restrictred airspace map](canada-drone-regulated-airspace.png)
+![canada drone restrictred airspace map](images/canada-drone-regulated-airspace.png)
 
 The yellow zones require caution, the red zones require a dedicated permission for your planned flights.
 
