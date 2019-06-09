@@ -20,11 +20,11 @@ Fines for non-complines range from 1000 to 15000 Canadian Dollars.
 
 ## Is a permit required to fly a drone in Canada?
 
-If your intention or shots meet __any__ of the following conditions, you will need a drone license in Canada:
+If your intention or shots meet **any** of the following conditions, you will need a drone license in Canada:
 
-* Your drone weighs over 250 grams (almost every camera drone)
-* You want to fly it closer than 30 meters to people or over people in any distance
-* You want to fly in controlled air spaces
+- Your drone weighs over 250 grams (almost every camera drone)
+- You want to fly it closer than 30 meters to people or over people in any distance
+- You want to fly in controlled air spaces
 
 ## Where can I fly my Drone in Canada?
 
@@ -46,7 +46,7 @@ If you need to fly within a restricted zone, you can conctact the authorities at
 
 ## Sources
 
-* [Canadian Government site about drone safety][tc drone saftety]
+- [Canadian Government site about drone safety][tc drone safety]
 
 [tc drone safety]: https://www.tc.gc.ca/en/services/aviation/drone-safety/flying-drone-safely-legally.html
 [denmark drone laws]: https://law.photography/law/drone-photography-laws-in-denmark
