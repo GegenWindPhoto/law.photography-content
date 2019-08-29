@@ -1,7 +1,7 @@
 ---
 title: "Drone Photography Laws in Portugal"
 date: "2019-06-01"
-lastmod: "2019-06-01"
+lastmod: "2019-08-29"
 description: "Drone Photography Laws and Regulations in Portugal"
 featured_image: "cover-drone.jpg"
 layout: "country"
