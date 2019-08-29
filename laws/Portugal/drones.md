@@ -1,7 +1,7 @@
 ---
 title: "Drone Photography Laws in Portugal"
 date: "2019-06-01"
-lastmod: "2019-06-01"
+lastmod: "2019-08-29"
 description: "Drone Photography Laws and Regulations in Portugal"
 featured_image: "cover-drone.jpg"
 layout: "country"
@@ -51,7 +51,7 @@ If you want to fly in a national park, there's a [form available][nature form] t
 
 If you're planning flights over historical sites, you might have to contact the local authorities as well.
 
-[voanaboa map]: https://www.voanaboa.pt/codigo-drone/
-[nature form]: https://www.voanaboa.pt/Files/downloads/Formulario_utilizacao_drones_ICNF.pdf
+[voanaboa map]: https://voanaboa.pt/codigo-drone/
+[nature form]: https://voanaboa.pt/Files/downloads/Formulario_utilizacao_drones_ICNF.pdf
 [aan]: https://www.aan.pt/
 [anac]: https://www.anac.pt
