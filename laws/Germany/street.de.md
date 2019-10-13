@@ -50,7 +50,9 @@ Sollten sie auf privatem Grund fotografieren gilt das Hausrecht und der Eigentü
 
 ## Gerichtsurteile
 
-**In 2018** gab es den Fall gegen Espen Eichhöfer, der mit seiner Street Foto Ausstellung. Quelle: [FAZ](https://www.faz.net/aktuell/feuilleton/debatten/verfassungsgericht-neues-gesetz-fuer-strassenfotografen-15529676.html)
+* **2019** [entschied das Landgericht Kassel](https://www.documentcloud.org/documents/6434081-LG-Kassel-1622-Js-30357-19-2-Qs-111-10.html), dass das Filmen von Polizeibeamten nicht immer erlaubt ist, da die Gespräche privat sein können.
+
+* **In 2018** gab es den Fall gegen Espen Eichhöfer, der mit seiner Street Foto Ausstellung. Quelle: [FAZ](https://www.faz.net/aktuell/feuilleton/debatten/verfassungsgericht-neues-gesetz-fuer-strassenfotografen-15529676.html)
 
 ## Relevante Gesetze
 
