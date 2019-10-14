@@ -32,7 +32,8 @@ No. Not even the German Police is allowed to do that unless you have been taking
 
 ## Court Cases
 
-**In 2018** a case of a street photo subject against Espen Eichhöfer resulted in the photographer paying a hefty fee, yet the court ruled that street photography is a form of art, which usually is protected and grants liberties to use, reproduce, expose and sell. Source:[FAZ](https://www.faz.net/aktuell/feuilleton/debatten/verfassungsgericht-neues-gesetz-fuer-strassenfotografen-15529676.html)
+* **2019** [a court in Kassel limited the filming of police officer under certain circumstances, due to the private nature of their conversations](https://www.documentcloud.org/documents/6434081-LG-Kassel-1622-Js-30357-19-2-Qs-111-10.html)
+* **In 2018** a case of a street photo subject against Espen Eichhöfer resulted in the photographer paying a hefty fee, yet the court ruled that street photography is a form of art, which usually is protected and grants liberties to use, reproduce, expose and sell. Source:[FAZ](https://www.faz.net/aktuell/feuilleton/debatten/verfassungsgericht-neues-gesetz-fuer-strassenfotografen-15529676.html)
 
 ## Relevant Laws
 
