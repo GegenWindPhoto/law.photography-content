@@ -64,3 +64,4 @@ We flew a drone in December 2019 and other tourists in the same (legal flying) a
 ## Sources
 
 * [enaire.es](https://www.enaire.es/services/drones/basic_rules_for_flying_drones)
+* [seguridadaerea.gob.es (ES)](https://www.seguridadaerea.gob.es/lang_castellano/cias_empresas/trabajos/rpas/faq/default.aspx#r43)
