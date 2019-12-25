@@ -14,7 +14,7 @@ langKey: "en"
 
 There is a distinction between commercial and hobbyist drone operators in Spain, which sets them apart a little when it comes to the rules.
 
-If you aim to fly your drone commercially, you should invest in being certified and taking a course at one of the many drone schools throughout Spain or having your license from another country recognised.
+If you aim to fly your drone commercially, you will need to invest in being certified and taking a course at one of the many drone schools throughout Spain or having your license from another country recognised.
 
 ## Is a permit required to fly a drone in Spain?
 
@@ -45,7 +45,7 @@ The government provides [an interactive map by ENAIRE.es](https://drones.enaire.
 
 In Spain the local governments can overrule parts of the regulation with either stricter or more lenient legislation.
 
-Some areas are technically fine to fly a drone in, but photography from it may be prohibited, which is a bit counter-intuitive.
+Some areas are technically fine to fly a drone in, but photography from it may be prohibited.
 
 ### Canary Islands
 
