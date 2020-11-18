@@ -36,7 +36,7 @@ Behind the scenes captures are encouraged unless they conflict with the **Exclus
 
 ## Usage
 
-The model(s) grant permission to the photographer(s) to distribute the final images produced on the shoot on the **INSERT DATE(S)** publicly for the following purposes:
+The model(s) grant permission to the photographer(s) to distribute the final images, captured on the shoot on the **INSERT DATE(S)**, publicly for the following purposes:
 
 * commercial (sale of images in print or digital and exhibitions)
 * promotional (social media channels, web, part of other media forms)
