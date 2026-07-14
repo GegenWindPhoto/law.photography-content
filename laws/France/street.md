@@ -36,4 +36,4 @@ Source: [New York Times](https://lens.blogs.nytimes.com/2013/04/23/paris-city-of
 
 ## Relevant Laws
 
-- [French Civil Code, Article 9](https://lens.blogs.nytimes.com/2013/04/23/paris-city-of-rights/)
+- [French Civil Code, Article 9](https://www.info.gouv.fr/guide-victimes-en/protect-your-image-rights)
