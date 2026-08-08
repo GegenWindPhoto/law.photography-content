@@ -10,6 +10,7 @@ category: "drones"
 type: "law"
 langKey: "da"
 slug: "drone-fotografi-lovgivning-i-danmark"
+url: "/da/law/drone-fotografi-lovgivning-i-danmark"
 ---
 
 Hobby og komercielle drone piloter i Danmark skal forholde sig til forskellige regler i forhold til lovgivning og hvor der må flyves. Begge har brug for en tilladdelse, men den mindre af dem kan opnåes ved at tage en online test.

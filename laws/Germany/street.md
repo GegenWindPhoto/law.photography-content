@@ -10,6 +10,7 @@ type: "law"
 category: "street"
 slug: "street-photography-laws-in-germany"
 langKey: "en"
+aliases: ["/law/street-photography-laws-germany"]
 ---
 
 Germany both has strong laws protecting the freedom of the press and freedom of speech, but also laws protecting privacy and copyright. This can lead to contradictions or hard to interpret situations for photographers and videographers at times.
