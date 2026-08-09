@@ -39,7 +39,7 @@ Some zones in portugal are restricted for drone flying, like the following:
 
 There is also a rule about not flying your drone near crowds, probably motivated due to privacy concerns, where a crowd is defined as more than 12 people. When flying at events where you are at the inviation of the host or at a wedding for example, this probably does not apply.
 
-There is a map of the no fly zones at [voanaboa.pt][voanaboa map], which lays out most of the no-fly zones currently in effect.
+There is a map of the no fly zones at [dnt anac.pt][dnt.anac.pt map], which lays out most of the no-fly zones currently in effect.
 
 ![Portugal Drone No Fly Zone Map](images/portugal-drone-no-fly-zones.png)
 
@@ -47,11 +47,8 @@ There's also a download available, if you want to view the zones in Google Earth
 
 ## How do I apply for a drone permit?
 
-If you want to fly in a national park, there's a [form available][nature form] that can be sent to [rtn@icnf.pt](mailto:rtn@icnf.pt)
-
 If you're planning flights over historical sites, you might have to contact the local authorities as well.
 
-[voanaboa map]: https://voanaboa.pt/codigo-drone/
-[nature form]: https://voanaboa.pt/Files/downloads/Formulario_utilizacao_drones_ICNF.pdf
+[dnt.anac.pt map]: https://dnt.anac.pt
 [aan]: https://www.aan.pt/
 [anac]: https://www.anac.pt
