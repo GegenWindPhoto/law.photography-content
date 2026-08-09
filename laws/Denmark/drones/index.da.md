@@ -25,7 +25,7 @@ Hvis du vil flyve nær mennesker eller beboede områder skal du tage et dronebev
 
 ![](images/drone-map-denmark.png)
 
-Der er et interaktivt kort som viser områder hvor du må flyve, hvor man skal søge om tilladelse og hvor det er forbudt som ved lufthavne eller høj sikkerheds bygninger eller arealer. Se mere på [droneluftrum.dk][].
+Der er et interaktivt kort som viser områder hvor du må flyve, hvor man skal søge om tilladelse og hvor det er forbudt som ved lufthavne eller høj sikkerheds bygninger eller arealer. Se mere på [droneregler.dk/dronezoner][].
 
 Det her betyder farverne:
 
@@ -46,5 +46,5 @@ Hvis ikke du bor i Danmark, men vil flyve en drone i et område der kræver till
 Husk at svar kan tage flere uger, henvend dig i god tid.
 
 [dronetegn.dk]: http://dronetegn.dk/
-[droneluftrum.dk]: https://www.droneluftrum.dk/
+[droneregler.dk/dronezoner]: https://www.droneregler.dk/dronezoner
 [trafikstyrelsen.dk/da/droneregler]: http://www.trafikstyrelsen.dk/da/droneregler
