@@ -9,7 +9,7 @@ country: "Germany"
 type: "law"
 category: "street"
 slug: "street-photography-laws-in-germany"
-langKey: "en"
+language: "en"
 aliases: ["/law/street-photography-laws-germany"]
 ---
 

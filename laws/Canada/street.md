@@ -9,7 +9,7 @@ country: "Canada"
 category: "street"
 type: "law"
 slug: "street-photography-laws-in-canada"
-langKey: "en"
+language: "en"
 ---
 
 ## Can I Shoot Footage in Public without Consent?

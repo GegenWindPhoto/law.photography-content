@@ -8,7 +8,7 @@ layout: "country"
 country: "Austria"
 type: "law"
 category: "street"
-langKey: "en"
+language: "en"
 slug: "street-photography-laws-in-austria"
 ---
 

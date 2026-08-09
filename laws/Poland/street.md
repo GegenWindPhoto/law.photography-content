@@ -9,7 +9,7 @@ country: "Poland"
 type: "law"
 category: "street"
 slug: "street-photography-laws-in-poland"
-langKey: "en"
+language: "en"
 ---
 
 ## Can I Shoot Footage in Public without Consent?

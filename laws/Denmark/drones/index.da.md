@@ -8,7 +8,7 @@ layout: "country"
 country: "Denmark"
 category: "drones"
 type: "law"
-langKey: "da"
+language: "da"
 slug: "drone-fotografi-lovgivning-i-danmark"
 url: "/da/law/drone-fotografi-lovgivning-i-danmark"
 ---

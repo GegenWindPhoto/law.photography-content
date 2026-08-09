@@ -8,7 +8,7 @@ layout: "country"
 country: "Germany"
 category: "street"
 type: "law"
-langKey: "de"
+language: "de"
 slug: "streetfotografie-gesetze-in-deutschland"
 url: "/de/law/streetfotografie-gesetze-in-deutschland"
 aliases: ["/law/street-fotografie-gesetze-in-deutschland"]

@@ -8,7 +8,7 @@ layout: "country"
 country: "Finland"
 category: "street"
 type: "law"
-langKey: "en"
+language: "en"
 slug: "street-photography-laws-in-finland"
 ---
 

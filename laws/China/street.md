@@ -9,7 +9,7 @@ country: "China"
 category: "street"
 type: "law"
 slug: "street-photography-laws-in-china"
-langKey: "en"
+language: "en"
 ---
 
 China in the following is the People's Republic of China (mainland China and Hong Kong, not Taiwan).
