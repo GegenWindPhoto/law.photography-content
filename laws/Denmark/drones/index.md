@@ -8,7 +8,7 @@ layout: "country"
 country: "Denmark"
 category: "drones"
 type: "law"
-langKey: "en"
+language: "en"
 slug: "drone-photography-laws-in-denmark"
 ---
 

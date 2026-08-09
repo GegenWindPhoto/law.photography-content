@@ -9,7 +9,7 @@ country: "Portugal"
 type: "law"
 category: "drone"
 slug: "drone-photography-laws-in-portugal"
-langKey: "en"
+language: "en"
 ---
 
 There is a distinction between commercial and hobbyist drone operators in Portugal, which sets them apart a little when it comes to the rules.

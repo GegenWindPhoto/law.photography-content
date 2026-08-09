@@ -9,7 +9,7 @@ country: "Portugal"
 type: "law"
 category: "street"
 slug: "street-photography-laws-in-portugal"
-langKey: "en"
+language: "en"
 ---
 
 ## Can I Shoot Footage in Public without Consent?

@@ -8,8 +8,10 @@ layout: "country"
 country: "Germany"
 category: "street"
 type: "law"
-langKey: "de"
+language: "de"
 slug: "streetfotografie-gesetze-in-deutschland"
+url: "/de/law/streetfotografie-gesetze-in-deutschland"
+aliases: ["/law/street-fotografie-gesetze-in-deutschland"]
 ---
 
 Was man aufnehmen, oder meistens eher, was man veröffentlichen darf im Rahmen der Fotografie in Deutschland wird sowohl von Gesetzen die die Privatsphäre stärken und der Kunst- und Panoramafreiheit beeinflusst.

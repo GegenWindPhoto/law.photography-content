@@ -9,7 +9,7 @@ country: "France"
 type: "law"
 category: "street"
 slug: "street-photography-laws-in-france"
-langKey: "en"
+language: "en"
 ---
 
 France's privacy laws are among the world’s strictest, so it is no surprise that their laws on privacy regarding one's image are restrictive as well.

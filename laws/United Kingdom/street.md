@@ -9,7 +9,7 @@ country: "United Kingdom"
 type: "law"
 category: "street"
 slug: "street-photography-laws-in-the-uk"
-langKey: "en"
+language: "en"
 ---
 
 The UK has some privacy relevant laws, but the laws for photography are generally permissive, which means that as long as you're in public, you can probably take the picture.

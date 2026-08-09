@@ -9,7 +9,7 @@ country: "Japan"
 category: "street"
 type: "law"
 slug: "street-photography-laws-in-japan"
-langKey: "en"
+language: "en"
 ---
 
 Japan has relatively strict privacy laws that especially prevent companies from using photos for publication without consent. Individuals can make use of some exceptions.

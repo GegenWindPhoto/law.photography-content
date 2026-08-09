@@ -9,7 +9,7 @@ country: "US"
 category: "street"
 type: "law"
 slug: "street-photography-laws-in-america"
-langKey: "en"
+language: "en"
 ---
 
 ## Can I Shoot Footage in Public without Consent?

@@ -9,7 +9,7 @@ country: "Sudan"
 category: "street"
 type: "law"
 slug: "photography-laws-in-sudan"
-langKey: "en"
+language: "en"
 ---
 
 ## All Photography Requires a Permit
