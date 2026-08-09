@@ -41,7 +41,7 @@ There is also a rule about not flying your drone near crowds, probably motivated
 
 There is a map of the no fly zones at [voanaboa.pt][voanaboa map], which lays out most of the no-fly zones currently in effect.
 
-![Portugal Drone No Fly Zone Map](./images/portugal-drone-no-fly-zones.png)
+![Portugal Drone No Fly Zone Map](images/portugal-drone-no-fly-zones.png)
 
 There's also a download available, if you want to view the zones in Google Earth, locally on your computer.
 
