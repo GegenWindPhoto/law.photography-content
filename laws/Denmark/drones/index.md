@@ -1,7 +1,7 @@
 ---
 title: "Drone Photography Laws in Denmark"
 date: "2019-01-05"
-lastmod: "2019-01-05"
+lastmod: "2026-08-09"
 description: "Drone Photography Laws and Regulations in Denmark"
 featured_image: "cover-drone.jpg"
 layout: "country"
