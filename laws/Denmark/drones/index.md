@@ -1,7 +1,7 @@
 ---
 title: "Drone Photography Laws in Denmark"
 date: "2019-01-05"
-lastmod: "2019-01-05"
+lastmod: "2026-08-09"
 description: "Drone Photography Laws and Regulations in Denmark"
 featured_image: "cover-drone.jpg"
 layout: "country"
@@ -24,7 +24,7 @@ If you want to fly within densely populated areas or closer to airports, you'll 
 
 ![](images/drone-map-denmark.png)
 
-There is an interactive map available that shows you which areas are restricted for a number of reasons, for example close to an airport or near a high security building, [droneluftrum.dk][].
+There is an interactive map available that shows you which areas are restricted for a number of reasons, for example close to an airport or near a high security building, [droneregler.dk/dronezoner][].
 
 Short legend for the map:
 
@@ -45,5 +45,5 @@ If you are not living in Denmark or if you want to fly inside a restricted zone 
 Answers can take several weeks, so make sure to contact them in due time.
 
 [dronetegn.dk]: http://dronetegn.dk/
-[droneluftrum.dk]: https://www.droneluftrum.dk/
+[droneregler.dk/dronezoner]: https://www.droneregler.dk/dronezoner
 [trafikstyrelsen.dk/da/droneregler]: http://www.trafikstyrelsen.dk/da/droneregler
